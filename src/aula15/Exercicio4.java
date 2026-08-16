@@ -10,5 +10,9 @@ public class Exercicio4 {
 
         String resultado = "aeiou".contains(letra.toLowerCase()) ? "VOGAL" : "CONSOANTE";
         System.out.println("A letra é uma: " + resultado);
+
+        /*switch(letra){
+ fazer case com as vogais. identifica qualquer coisa como consoante
+         */
     }
 }

@@ -15,5 +15,10 @@ public class Exercicio1 {
         } else {
             System.out.println("Essa nota é Inválida!");
         }
+
+        /*while(nota < 0 || nota > 10){
+            System.out.println("Nota inválida, tente novamente!");
+            nota = scanner.nextDouble();
+        }*/
     }
 }

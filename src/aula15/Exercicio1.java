@@ -15,5 +15,11 @@ public class Exercicio1 {
 
         double maior = Math.max(num1,num2);
         System.out.println("O  maior número é:  " + maior);
+        /*float maiornumero;
+        if (num1 > num2){
+        maiorNumero = num1;
+        }
+        sout basico
+         */
     }
 }

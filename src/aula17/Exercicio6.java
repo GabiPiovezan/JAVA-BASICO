@@ -8,8 +8,12 @@ public class Exercicio6 {
         Scanner scanner = new Scanner(System.in);
 
 
-        for (int numero = 0; numero <21; numero++){
+        for (int numero = 1; numero <= 20; numero++){
             System.out.println(numero);
+        }
+
+        for (int numero = 1; numero <= 20; numero++){
+            System.out.print(numero + " ");
         }
     }
 }
