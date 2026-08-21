@@ -7,7 +7,7 @@ public class LivrodeBiblioteca {
     double preco;
     String referencia;
     String nomeLivraria;
-    boolean emprestimo;
-    String nomeEmprestado;
+    boolean emprestado;
+
 
 }
